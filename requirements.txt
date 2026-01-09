@@ -17,5 +17,4 @@ statsmodels>=0.13.0
 sqlalchemy>=1.4.0
 
 # Jupyter Notebook
-jupyter>=1.0.0
 notebook>=6.4.0
